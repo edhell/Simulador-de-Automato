@@ -1,0 +1,34 @@
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.exe.config
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.exe
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.pdb
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.xml
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.vbprojResolveAssemblyReference.cache
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\obj\Debug\Teoria_da_Computação___Trabalho.Form1.resources
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\obj\Debug\Teoria_da_Computação___Trabalho.Resources.resources
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.exe
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.xml
+C:\Users\Eduardo\AppData\Local\Temporary Projects\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.vbprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria_da_Computação___Trabalho.Form1.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria_da_Computação___Trabalho.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.vbproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.exe
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.xml
+C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.exe.config
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.exe
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.pdb
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\bin\Debug\Teoria da Computação - Trabalho.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.vbprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria_da_Computação___Trabalho.Form1.resources
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria_da_Computação___Trabalho.Resources.resources
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.vbproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.exe
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.xml
+C:\Users\eduar\OneDrive\Documentos\Visual Studio 2017\Projects\Teoria da Computação - Trabalho\Teoria da Computação - Trabalho\obj\Debug\Teoria da Computação - Trabalho.pdb
