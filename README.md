@@ -2,6 +2,7 @@
 Simulador de Autômato<br>
 Trabalho de Teoria da Computação<br>
 Simula o teste de dois programas.<br>
+Mais em www.edinfo.com.br<br>
 
 Entrada -> Programa Monolítico com Instruções Rotuladas Simples<br>
 * Entradas:<br>
